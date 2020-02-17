@@ -18,7 +18,7 @@ public class ManagerActivity extends AppCompatActivity
 {
 	private Toolbar mToolbar;
 	public static void github(Activity mContext){
-		String urlGithub = "https://github.com/ZRock-Application/";
+		String urlGithub = "https://zrock-application.github.io/ZROCK/";
 		Shared.setLink(mContext ,urlGithub);
 	}
 	

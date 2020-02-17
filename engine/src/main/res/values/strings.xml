@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lib_name">engine</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="please_wait">Script Executing...\n\nPlease wait!</string>
+    <string name="exit">Exit</string>
+    <string name="exit_text">Are You Sure You Want To Exit The Program?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Press \'back\' again to exit the program</string>
+    <string name="result">Result of the executing:\n</string>
+    <string name="ok_">EXECUTING SUCCESSFULLY!</string>
+</resources>
